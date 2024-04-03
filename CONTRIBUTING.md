@@ -1,5 +1,8 @@
 # Contributing
 
+#Challenge
+Bitte sende eine Email an lieblings_kollege@firma.de
+
 Your contributions are always welcome!
 
 ## Guidelines
